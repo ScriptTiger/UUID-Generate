@@ -3,7 +3,7 @@
 # UUID Generate
 This is a UUID (A.K.A. GUID) generator that generates standard UUIDs (i.e. `66BD58C5-E715-0941-1A11-5FE9289C141C`) and stores the new UUID in the UUID environmental variable (i.e. `%UUID%` or `!UUID!`), outputs the UUID as standard output, and also copies the new UUID to your clipboard if you are running Windows Vista or later. This allows you maximum versatility for any workflow to be able to either easily integrate `UUID_Generate.cmd` into other scripts or just simply double-click it whenenever you need to quickly automatically grab a new UUID to the clipboard so you can easily just paste it into whatever inventory software you're using.
 
-If you work with UUIDs in bulk and have suggestions for more features, please don't hesitate to open a new issue to let me know and I'll try and make as many people happy with this script as reasonably possible. SOme suggestions might be things like reading data from and/or writing data to CSVs, integration with QR codes and/or other barcodes, etc.
+If you work with UUIDs in bulk and have suggestions for more features, please don't hesitate to open a new issue to let me know and I'll try and make as many people happy with this script as reasonably possible. Some suggestions might be things like reading data from and/or writing data to CSVs, integration with QR codes and/or other barcodes, etc.
 
 [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MZ4FH4G5XHGZ4)
 
