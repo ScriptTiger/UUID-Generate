@@ -8,5 +8,3 @@ This is a UUID (A.K.A. GUID) generator that generates standard UUIDs (i.e. `f19b
 If you work with UUIDs in bulk and have suggestions for more features, please don't hesitate to open a new issue to let me know and I'll try and make as many people happy with this script as reasonably possible. Some suggestions might be things like reading data from and/or writing data to CSVs, integration with QR codes and/or other barcodes, etc.
 
 [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MZ4FH4G5XHGZ4)
-
-Donate Monero (XMR): 441LBeQpcSbC1kgangHYkW8Tzo8cunWvtVK4M6QYMcAjdkMmfwe8XzDJr1c4kbLLn3NuZKxzpLTVsgFd7Jh28qipR5rXAjx
